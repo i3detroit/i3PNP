@@ -341,7 +341,7 @@ UsedLibrary="i3_Pick_Place.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="1016 654 1615 1053"
+Loc="570 34 1169 433"
 State=2
 Number=0
 
